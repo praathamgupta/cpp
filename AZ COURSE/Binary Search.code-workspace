@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../Binary Search"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../codeforces"
+		},
+		{
+			"path": "../codechef"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"ostream": "cpp"
+		}
+	}
+}

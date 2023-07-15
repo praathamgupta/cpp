@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../AZ CP"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"cmath": "cpp",
+			"iomanip": "cpp",
+			"*.tcc": "cpp"
+		}
+	}
+}
